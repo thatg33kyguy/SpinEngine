@@ -15,6 +15,51 @@
 const prompt= require("prompt-sync")();
 //gets the function first, and not the prompt directly
 
+
+const ROWS = 3;
+const COLUMNS =3;
+
+const SYMBOLS_COUNT ={
+    A: 2,
+    B: 4,
+    C: 6,
+    D: 8
+}
+const SYMBOLS_VALUE ={
+    A: 5,
+    B: 4,
+    C: 3,
+    D: 2
+}
+
+// SPINNING THE MACHINE= RANDOMISING THE OBJECT
+
+
+const spinn = () =>{
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const deposit = () => {
   while(true){
   const depositamount= prompt("Enter a deposit amount: ");
