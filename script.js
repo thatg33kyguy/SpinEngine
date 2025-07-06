@@ -35,7 +35,7 @@ const SYMBOLS_VALUE ={
 // SPINNING THE MACHINE= RANDOMISING THE OBJECT
 
 
-const spinn = () =>{
+const spin = () =>{
      
 }
 
